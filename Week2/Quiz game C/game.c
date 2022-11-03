@@ -33,8 +33,8 @@ int main (){
 			printf ("\nTHE GAME WILL RESTART\n\n");}		
 		else if (val==2){
 			printf ("ok pussy");
-			cl=0;}
-return 0;}}
+			cl=0;}}
+return 0;}
 
 	
 		
